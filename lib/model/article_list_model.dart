@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:hackernews/model/article.dart';
-import 'package:hackernews/repository/article_request.dart';
 import 'package:hackernews/repository/top_stories_request.dart';
 
 class ArticleListModel extends ChangeNotifier {
